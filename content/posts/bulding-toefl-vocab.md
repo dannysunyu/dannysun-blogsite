@@ -1,5 +1,5 @@
 ---
-title: "Bulding Toefl Vocab"
+title: "我是怎么准备托福词汇的"
 date: 2020-05-09T15:31:49+08:00
 draft: true
 ---

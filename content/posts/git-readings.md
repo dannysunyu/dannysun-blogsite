@@ -1,5 +1,5 @@
 ---
-title: "在IntelliJ IDEA上与Git交互的一些帮助文档"
+title: "在IntelliJ IDEA上把玩Git"
 date: 2020-06-04T11:52:03+08:00
 draft: false
 ---
